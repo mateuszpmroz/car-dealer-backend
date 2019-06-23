@@ -1,0 +1,2405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95211886-147c-40e9-8a64-1457181bf6d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CarDealer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CarDealer/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CarDealer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.CarDealer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/DTO/AdvertDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Mapper/AdvertMapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Model/Advert.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Repository/AdvertRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Repository/IAdvertRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Service/AdvertService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Service/IAdvertService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/DTO/CarDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Mapper/CarMapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Model/Car.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Repository/CarRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Repository/ICarRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Service/CarService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Service/ICarService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Image/Model/Image.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Image/Repository/IImageRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Image/Repository/ImageRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/DTO/UserDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Mapper/UserMapper.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Model/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Repository/IUserRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Repository/UserRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Service/IUserService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Service/UserService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/CarDealer.Infrastructure.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Context/CarDealerContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Core/AbstractEntity.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Core/IRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.Infrastructure/Core/IService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer/Controllers/AdvertController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer/Controllers/CarController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CarDealer/Controllers/UserController.cs" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Core/IRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+              <folding>
+                <marker date="1558993310924" expanded="false" signature="6:63" ph="..." />
+                <marker date="1558993310924" expanded="true" signature="104:346" ph="{...}" />
+                <marker date="1558993310924" expanded="true" signature="148:344" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/DTO/AdvertDto.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+              <folding>
+                <marker date="1560363116308" expanded="true" signature="90:693" ph="{...}" />
+                <marker date="1560363116308" expanded="true" signature="119:691" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Core/IService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+              <folding>
+                <marker date="1560363625562" expanded="false" signature="6:63" ph="..." />
+                <marker date="1560363625562" expanded="true" signature="104:345" ph="{...}" />
+                <marker date="1560363625562" expanded="true" signature="145:343" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Mapper/AdvertMapper.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-234">
+              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <folding>
+                <marker date="1560363099899" expanded="true" signature="108:1900" ph="{...}" />
+                <marker date="1560363099899" expanded="true" signature="150:1898" ph="{...}" />
+                <marker date="1560363099899" expanded="true" signature="254:908" ph="{...}" />
+                <marker date="1560363099899" expanded="true" signature="312:897" ph="{...}" />
+                <marker date="1560363099899" expanded="true" signature="1007:1892" ph="{...}" />
+                <marker date="1560363099899" expanded="true" signature="1098:1881" ph="{...}" />
+                <marker date="1560363099899" expanded="true" signature="1459:1866" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CarDealer/Controllers/CarController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <folding>
+                <marker date="1560365605345" expanded="true" signature="6:215" ph="..." />
+                <marker date="1560365605345" expanded="true" signature="248:2337" ph="{...}" />
+                <marker date="1560365605345" expanded="true" signature="350:2335" ph="{...}" />
+                <marker date="1560365605345" expanded="true" signature="570:696" ph="{...}" />
+                <marker date="1560365605345" expanded="true" signature="799:1138" ph="{...}" />
+                <marker date="1560365605345" expanded="true" signature="833:967" ph="{...}" />
+                <marker date="1560365605345" expanded="true" signature="1016:1124" ph="{...}" />
+                <marker date="1560365605345" expanded="true" signature="1234:1351" ph="{...}" />
+                <marker date="1560365605345" expanded="true" signature="1459:1708" ph="{...}" />
+                <marker date="1560365605345" expanded="true" signature="1509:1586" ph="{...}" />
+                <marker date="1560365605345" expanded="true" signature="1825:2087" ph="{...}" />
+                <marker date="1560365605345" expanded="true" signature="1875:1952" ph="{...}" />
+                <marker date="1560365605345" expanded="true" signature="2196:2329" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Service/AdvertService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+              <folding>
+                <marker date="1560363145530" expanded="false" signature="6:259" ph="..." />
+                <marker date="1560363145530" expanded="true" signature="318:1421" ph="{...}" />
+                <marker date="1560363145530" expanded="true" signature="368:1419" ph="{...}" />
+                <marker date="1560363145530" expanded="true" signature="504:576" ph="{...}" />
+                <marker date="1560363145530" expanded="true" signature="644:798" ph="{...}" />
+                <marker date="1560363145530" expanded="true" signature="853:992" ph="{...}" />
+                <marker date="1560363145530" expanded="true" signature="1044:1146" ph="{...}" />
+                <marker date="1560363145530" expanded="true" signature="1198:1301" ph="{...}" />
+                <marker date="1560363145530" expanded="true" signature="1344:1413" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Core/AbstractEntity.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+              <folding>
+                <marker date="1560096626477" expanded="true" signature="6:110" ph="..." />
+                <marker date="1560096626477" expanded="true" signature="151:419" ph="{...}" />
+                <marker date="1560096626477" expanded="true" signature="194:417" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CarDealer/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="48" column="108" selection-start-line="48" selection-start-column="108" selection-end-line="48" selection-end-column="108" />
+              <folding>
+                <marker date="1560614991675" expanded="false" signature="6:808" ph="..." />
+                <marker date="1560614991675" expanded="true" signature="867:3124" ph="{...}" />
+                <marker date="1560614991675" expanded="true" signature="894:3122" ph="{...}" />
+                <marker date="1560614991675" expanded="true" signature="953:1016" ph="{...}" />
+                <marker date="1560614991675" expanded="true" signature="1239:2152" ph="{...}" />
+                <marker date="1560614991675" expanded="true" signature="2340:3116" ph="{...}" />
+                <marker date="1560614991675" expanded="true" signature="2387:2464" ph="{...}" />
+                <marker date="1560614991675" expanded="true" signature="2481:2686" ph="{...}" />
+                <marker date="1560614991675" expanded="true" signature="2512:2672" ph="/* The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/as ... */" />
+                <marker date="1560614991675" expanded="true" signature="2945:3104" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>userToUpdate</find>
+      <find>Reference(</find>
+      <find>kestrel</find>
+      <find>CreateDefaultBuilder</find>
+      <find>DateTime</find>
+      <find>Receiv</find>
+      <find>FirstOr</find>
+      <find>CarDealerContext</find>
+      <find>ReceiveString</find>
+      <find>CarDealer.Bundles</find>
+      <find>_iAdvertService</find>
+      <find>advertDto</find>
+      <find>ICarRepository</find>
+      <find>_iCarRepository</find>
+      <find>CarMapper</find>
+      <find>_iCarService</find>
+      <find>iCarService</find>
+      <find>cars</find>
+      <find>Car</find>
+      <find>carDto</find>
+      <find>CarDto</find>
+      <find>'</find>
+      <find>ICarService</find>
+      <find>users.ForEach(x =&gt; { _carDealerContext.Entry(x).Reference</find>
+      <find>getAllUsers</find>
+      <find>user</find>
+      <find>option.</find>
+      <find>Configure</find>
+      <find>OnModelCreating</find>
+      <find>car</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/90E93788-E934-48B7-A7CB-CECAB05F4851/8e/91f29cf4/DateTime.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Repository/AdvertRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer/Controllers/AdvertController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/DTO/AdvertDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Core/IRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Service/IAdvertService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Repository/IAdvertRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Core/IService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/90E93788-E934-48B7-A7CB-CECAB05F4851/62/d945fc6f/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer/Controllers/UserController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Service/AdvertService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Service/UserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Mapper/UserMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer/obj/Debug/netcoreapp2.2/CarDealer.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Image/Repository/ImageRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Image/Repository/IImageRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/DTO/UserDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Context/CarDealerContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E66A1F96-E973-4A7F-AC7C-EA0901022728/25/1a5a64ff/EntityEntry.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Service/IUserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer/Controllers/CarController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Image/Model/Image.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Mapper/CarMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Migrations/20190609181417_init.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Service/CarService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Migrations/20190609181417_init.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Service/ICarService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Repository/IUserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Repository/UserRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Mapper/AdvertMapper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/DTO/CarDto.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Repository/CarRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Repository/ICarRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Model/Advert.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Model/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Core/AbstractEntity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Model/Car.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Models/AbstractEntity.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Context/CarDealer.cs" />
+        <option value="$PROJECT_DIR$/CarDealer/CarDealer.csproj" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/CarDealer.Infrastructure.csproj" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Advert/IAdvertRepository.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Advert/Advert.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Advert/Model/Advert.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Models/Car.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Models/User.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Car/Model/Car.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/User/Model/User.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Model/Car.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Repository/IAdvertRepository.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Service/IFlatService.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Core/IRepository.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Api/Controllers/adsd.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/DTO/AdvertMapper.cs" />
+        <option value="$PROJECT_DIR$/CarDealer/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Core/AbstractEntity.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Model/AdvertMapper.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Service/ICarService.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Mapper/CarMapper.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/DTO/CarDto.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Mapper/AdvertMapper.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/DTO/AdvertDto.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Service/IAdvertService.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Service/AdvertService.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Image/Repository/ImageRepository.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Image/Repository/IImageRepository.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Image/Model/Image.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Repository/IUserRepository.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Repository/CarRepository.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Repository/ICarRepository.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Core/IService.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Service/CarService.cs" />
+        <option value="$PROJECT_DIR$/CarDealer/Controllers/CarController.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Service/IUserService.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Mapper/UserMapper.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Service/UserService.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/DTO/UserDto.cs" />
+        <option value="$PROJECT_DIR$/CarDealer/Controllers/AdvertController.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Repository/UserRepository.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Model/Advert.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Repository/AdvertRepository.cs" />
+        <option value="$PROJECT_DIR$/CarDealer/Program.cs" />
+        <option value="$PROJECT_DIR$/CarDealer/Controllers/UserController.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Context/CarDealerContext.cs" />
+        <option value="$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Model/User.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http" />
+        <option value="$PROJECT_DIR$/CarDealer/Startup.cs" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CarDealer.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CarDealer.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bundles" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CarDealer.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bundles" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Advert" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CarDealer.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bundles" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Advert" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="DTO" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CarDealer.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bundles" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Advert" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Mapper" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CarDealer.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bundles" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Advert" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Model" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CarDealer.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bundles" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Advert" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Repository" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CarDealer.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Bundles" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Advert" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Service" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CarDealer.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Context" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CarDealer.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Core" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="CarDealer" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CarDealer.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Migrations" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="CarDealer" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Other File Types" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;Title&quot;: &quot;dawdwijawidjawidaw&quot;,&#10;  &quot;Description&quot;: &quot;dlkjanwd awdnl awlndnaw dlnk wankldkn alnk&quot;,&#10;  &quot;Price&quot;: 20000,&#10;  &quot;Status&quot;: true,&#10;  &quot;EngineSize&quot;: 1999,&#10;  &quot;Name&quot;: &quot;Opel&quot;,&#10;  &quot;FuelType&quot;: &quot;Diesle&quot;,&#10;  &quot;Mileage&quot;: 10000,&#10;  &quot;IsBroken&quot;: false,&#10;  &quot;IsNew&quot;: false,&#10;  &quot;HorsePower&quot;: 100,&#10;  &quot;UserId&quot;: 9&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;Title&quot;: &quot;title&quot;,&#10;  &quot;Description&quot;: &quot;description&quot;,&#10;  &quot;Price&quot;: 20000,&#10;  &quot;Status&quot;: true,&#10;  &quot;EngineSize&quot;: 1999,&#10;  &quot;Name&quot;: &quot;Opel&quot;,&#10;  &quot;FuelType&quot;: &quot;Diesle&quot;,&#10;  &quot;Mileage&quot;: 10000,&#10;  &quot;IsBroken&quot;: false,&#10;  &quot;IsNew&quot;: false,&#10;  &quot;HorsePower&quot;: 100,&#10;  &quot;UserId&quot;: 9&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;Login&quot;: &quot;login&quot;,&#10;  &quot;Password&quot;: &quot;password&quot;,&#10;  &quot;Email&quot;: &quot;email@o2.pl&quot;,&#10;  &quot;PhoneNumber&quot;: &quot;1232131&quot;,&#10;  &quot;FirstName&quot;: &quot;Mati&quot;,&#10;  &quot;Adverts&quot;: []&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/user" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;Login&quot;: &quot;login&quot;,&#10;  &quot;Password&quot;: &quot;password&quot;,&#10;  &quot;Email&quot;: &quot;email@o2.pl&quot;,&#10;  &quot;PhoneNumber&quot;: &quot;1232131&quot;,&#10;  &quot;FirstName&quot;: &quot;Mati&quot;,&#10;  &quot;Adverts&quot;: {},&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert/" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;dziwka&quot;,&#10;   &quot;Description&quot;: &quot;pizda&quot;,&#10;   &quot;Price&quot;: 69,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;Chuj&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;UserId&quot;: 1,&#10;  &quot;Id&quot;: 6&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert/" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;asdads&quot;,&#10;   &quot;Description&quot;: &quot;dsadad&quot;,&#10;   &quot;Price&quot;: 69,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;Chuj&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;UserId&quot;: 1,&#10;  &quot;Id&quot;: 6&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert/" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;asdads&quot;,&#10;   &quot;Description&quot;: &quot;dsadad&quot;,&#10;   &quot;Price&quot;: 69,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;Chuj&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;UserId&quot;: 1,&#10;  &quot;Id&quot;: 7&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert/" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;asdads&quot;,&#10;   &quot;Description&quot;: &quot;dsadad&quot;,&#10;   &quot;Price&quot;: 69,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;Chuj&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;UserId&quot;: 1,&#10;  &quot;Id&quot;: 9&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert/" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;asdads&quot;,&#10;   &quot;Description&quot;: &quot;dsadad&quot;,&#10;   &quot;Price&quot;: 69,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;Chuj&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;UserId&quot;: 1,&#10;  &quot;Id&quot;: 8&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;Chuj&quot;,&#10;   &quot;Description&quot;: &quot;Dupa&quot;,&#10;   &quot;Price&quot;: 69,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;Chuj&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;UserId&quot;: 1&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;Chuj&quot;,&#10;   &quot;Description&quot;: &quot;Dupa&quot;,&#10;   &quot;Price&quot;: 69,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;Chuj&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;Id&quot;: 1&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;Chuj&quot;,&#10;   &quot;Description&quot;: &quot;Dupa&quot;,&#10;   &quot;Price&quot;: 69,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;Chuj&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;Id&quot;: 1&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;Chuj&quot;,&#10;   &quot;Description&quot;: &quot;Dupa&quot;,&#10;   &quot;Price&quot;: 69,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;Chuj&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;Id&quot;: 1&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;Chuj&quot;,&#10;   &quot;Description&quot;: &quot;Dupa&quot;,&#10;   &quot;Price&quot;: 69,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;Chuj&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;Id&quot;: 4&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;Chuj&quot;,&#10;   &quot;Description&quot;: &quot;Dupa&quot;,&#10;   &quot;Price&quot;: 69,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;Chuj&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;&quot;UserId&quot;: 1,&#10;  &quot;Id&quot;: 3&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;Chuj&quot;,&#10;   &quot;Description&quot;: &quot;Dupa&quot;,&#10;   &quot;Price&quot;: 69,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;Chuj&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;&quot;UserId&quot;: 1,&#10;  &quot;Id&quot;: 3&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;sadasda title&quot;,&#10;   &quot;Description&quot;: &quot;Dupa&quot;,&#10;   &quot;Price&quot;: 123123,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;&quot;UserId&quot;: 1&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;ass&quot;,&#10;   &quot;Description&quot;: &quot;adsd&quot;,&#10;   &quot;Price&quot;: 123123,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000&#10;&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/CreateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;ass&quot;,&#10;   &quot;Description&quot;: &quot;adsd&quot;,&#10;   &quot;Price&quot;: 123123,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000&#10;&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/CreateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;ass&quot;,&#10;   &quot;Description&quot;: &quot;adsd&quot;,&#10;   &quot;Price&quot;: 123123,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/DeleteAdvert/2" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;ass&quot;,&#10;   &quot;Description&quot;: &quot;adsd&quot;,&#10;   &quot;Price&quot;: 123123,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;Id&quot;: 2&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;ass&quot;,&#10;   &quot;Description&quot;: &quot;adsd&quot;,&#10;   &quot;Price&quot;: 123123,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;Id&quot;: 2&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;dsadsa&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 333,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;Id&quot;: 2&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;dsadsa&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 3333,&#10;&#10;  &quot;Id&quot;: 2&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;dsadsa&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 222,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;Id&quot;: 2&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/GetAllAdverts" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;dsadsa&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 222,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;Id&quot;: 2&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;dsadsa&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 222,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Dupa&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000,&#10;  &quot;id&quot;: 2&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;tytulll&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 222,&#10;   &quot;Status&quot;: 1,&#10;&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Gas&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000&#10; &#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;tytulll&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 222,&#10;   &quot;Status&quot;: 1,&#10;  &quot;Car&quot;: {&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Gas&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000&#10;  },&#10;  &quot;User&quot;: {&#10;    &quot;FirstName&quot;: &quot;asdasda&quot;,&#10;&#10;    &quot;Login&quot;: &quot;asd&quot;,&#10;    &quot;Password&quot;: &quot;asda&quot;,&#10;    &quot;Email&quot;: &quot;wrawa&quot;,&#10;    &quot;PhoneNumber&quot;: &quot;1231231&quot;&#10;  }&#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;tytulll&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 222,&#10;   &quot;Status&quot;: 1,&#10;  &quot;Car&quot;: {&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Gas&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000&#10;  },&#10;  &quot;User&quot;: {&#10;    &quot;FirstName&quot;: &quot;asdasda&quot;,&#10;  &quot;Id&quot;: 1,&#10;    &quot;Login&quot;: &quot;asd&quot;,&#10;    &quot;Password&quot;: &quot;asda&quot;,&#10;    &quot;Email&quot;: &quot;wrawa&quot;,&#10;    &quot;PhoneNumber&quot;: &quot;1231231&quot;&#10;  }&#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;tytulll&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 222,&#10;   &quot;Status&quot;: 1,&#10;  &quot;Car&quot;: {&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Gas&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000&#10;  },&#10;  &quot;User&quot;: {&#10;  &quot;Id&quot;: 1,&#10;    &quot;Login&quot;: &quot;asd&quot;,&#10;    &quot;Password&quot;: &quot;asda&quot;,&#10;    &quot;Email&quot;: &quot;wrawa&quot;,&#10;    &quot;PhoneNumber&quot;: &quot;1231231&quot;&#10;  }&#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;tytulll&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 222,&#10;   &quot;Status&quot;: 1,&#10;  &quot;Car&quot;: {&#10;    &quot;Name&quot;: &quot;name&quot;,&#10;    &quot;FuelType&quot;: &quot;Gas&quot;,&#10;    &quot;Mileage&quot;: 200,&#10;    &quot;IsBroken&quot;: 0,&#10;    &quot;IsNew&quot;: 1,&#10;    &quot;HorsePower&quot;: 2000,&#10;    &quot;EngineSize&quot;: 2000&#10;  }&#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;tytulll&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 222,&#10;   &quot;Status&quot;: 1,&#10;   &quot;Name&quot;: &quot;name&quot;,&#10;   &quot;FuelType&quot;: &quot;Gas&quot;,&#10;   &quot;Mileage&quot;: 200,&#10;   &quot;IsBroken&quot;: 0,&#10;   &quot;IsNew&quot;: 1,&#10;   &quot;HorsePower&quot;: 2000,&#10;   &quot;EngineSize&quot;: 2000&#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;tytulll&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 222,&#10;   &quot;Status&quot;: 1,&#10;   &quot;Name&quot;: &quot;name&quot;,&#10;   &quot;FuelType&quot;: &quot;Gas&quot;,&#10;   &quot;Mileage&quot;: 200,&#10;   &quot;IsBroken&quot;: 0,&#10;   &quot;IsNew&quot;: 1,&#10;   &quot;HorsePower&quot;: 2000,&#10;   &quot;EngineSize&quot;: 2000,&#10; &#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/updateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;tytulll&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 222,&#10;   &quot;Status&quot;: 1,&#10;   &quot;Name&quot;: &quot;name&quot;,&#10;   &quot;FuelType&quot;: &quot;Gas&quot;,&#10;   &quot;Mileage&quot;: 200,&#10;   &quot;IsBroken&quot;: 0,&#10;   &quot;IsNew&quot;: 1,&#10;   &quot;HorsePower&quot;: 2000,&#10;   &quot;EngineSize&quot;: 2000,&#10;  &quot;Id&quot;: 1&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;tytulll&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 222,&#10;   &quot;Status&quot;: 1,&#10;   &quot;Name&quot;: &quot;name&quot;,&#10;   &quot;FuelType&quot;: &quot;Gas&quot;,&#10;   &quot;Mileage&quot;: 200,&#10;   &quot;IsBroken&quot;: 0,&#10;   &quot;IsNew&quot;: 1,&#10;   &quot;HorsePower&quot;: 2000,&#10;   &quot;EngineSize&quot;: 2000,&#10;  &quot;UserId&quot;: 1&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;   &quot;Title&quot;: &quot;tytulll&quot;,&#10;   &quot;Description&quot;: &quot;adsa&quot;,&#10;   &quot;Price&quot;: 222,&#10;   &quot;Status&quot;: 1,&#10;   &quot;Name&quot;: &quot;name&quot;,&#10;   &quot;FuelType&quot;: &quot;Gas&quot;,&#10;   &quot;Mileage&quot;: 200,&#10;   &quot;IsBroken&quot;: 0,&#10;   &quot;IsNew&quot;: 1,&#10;   &quot;HorsePower&quot;: 2000,&#10;   &quot;EngineSize&quot;: 2000&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;&quot;Title&quot;:&quot;tytulll&quot;,&#10;&quot;Description&quot;:&quot;adsa&quot;,&#10;&quot;Price&quot;:222,&#10;&quot;Status&quot;:1,&#10;&quot;Name&quot;:&quot;name&quot;,&#10;&quot;FuelType&quot;:&quot;Gas&quot;,&#10;&quot;Mileage&quot;:200,&#10;&quot;IsBroken&quot;:0,&#10;&quot;IsNew&quot;:1,&#10;&quot;HorsePower&quot;:2000,&#10;&quot;EngineSize&quot;:2000&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;&quot;Title&quot;:&quot;tytulll&quot;,&#10;&quot;Description&quot;:&quot;adsa&quot;,&#10;&quot;Price&quot;:22,&#10;&quot;Status&quot;:1,&#10;&quot;Name&quot;:&quot;name&quot;,&#10;&quot;FuelType&quot;:&quot;Gas&quot;,&#10;&quot;Mileage&quot;:200,&#10;&quot;IsBroken&quot;:0,&#10;&quot;IsNew&quot;:1,&#10;&quot;HorsePower&quot;:2000,&#10;&quot;EngineSize&quot;:2000&#10;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;&quot;Title&quot;:&quot;tytulll&quot;,&#10;&quot;Description&quot;:&quot;adsa&quot;,&#10;&quot;Price&quot;:22,&#10;&quot;Status&quot;:1,&#10;&quot;Name&quot;:&quot;name&quot;,&#10;&quot;FuelType&quot;:&quot;Gas&quot;,&#10;&quot;Mileage&quot;:200,&#10;&quot;IsBroken&quot;:0,&#10;&quot;IsNew&quot;:1,&#10;&quot;HorsePower&quot;:2000,&#10;&quot;EngineSize&quot;:2000,&#10;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;&quot;Title&quot;:&quot;tytulll&quot;,&#10;&quot;Description&quot;:&quot;adsa&quot;,&#10;&quot;Price&quot;:22,&#10;&quot;Status&quot;:1,&#10;&quot;Name&quot;:&quot;name&quot;,&#10;&quot;FuelType&quot;:&quot;Gas&quot;,&#10;&quot;Mileage&quot;:200,&#10;&quot;IsBroken&quot;:0,&#10;&quot;IsNew&quot;:1,&#10;&quot;HorsePower&quot;:2000,&#10;&quot;EngineSize&quot;:2000,&#10;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;&quot;Title&quot;:&quot;tytulll&quot;,&#10;&quot;Description&quot;:&quot;adsa&quot;,&#10;&quot;Price&quot;:22,&#10;&quot;Status&quot;:1,&#10;&quot;Name&quot;:&quot;name&quot;,&#10;&quot;FuelType&quot;:&quot;Gas&quot;,&#10;&quot;Mileage&quot;:200,&#10;&quot;IsBroken&quot;:0,&#10;&quot;IsNew&quot;:1,&#10;&quot;HorsePower&quot;:2000,&#10;&quot;EngineSize&quot;:2000,&#10;  &quot;Id&quot;: 1&#10;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="/api/advert" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000/api/advert/UpdateAdvert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;&quot;Title&quot;:&quot;tytulll&quot;,&#10;&quot;Description&quot;:&quot;adsa&quot;,&#10;&quot;Price&quot;:22,&#10;&quot;Status&quot;:1,&#10;&quot;Name&quot;:&quot;name&quot;,&#10;&quot;FuelType&quot;:&quot;Gas&quot;,&#10;&quot;Mileage&quot;:200,&#10;&quot;IsBroken&quot;:0,&#10;&quot;IsNew&quot;:1,&#10;&quot;HorsePower&quot;:2000,&#10;&quot;EngineSize&quot;:2000,&#10;  &quot;Id&quot;: 1&#10;  }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="/api/advert" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="/api/advert" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Title" />
+                <option name="value" value="Asd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Description" />
+                <option name="value" value="asdasd" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="/api/advert" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Title" />
+                <option name="value" value="Asd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Description" />
+                <option name="value" value="asdasd" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="/api/advert" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Title" />
+                <option name="value" value="Asd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Description" />
+                <option name="value" value="asdasd" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:5000" />
+          <option name="urlPath" value="/api/advert" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveFileToSend" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.rest-api#1">
+    <configuration name="rest-api#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="CarDealer" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/CarDealer/CarDealer.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="CarDealer" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.rest-api#1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95211886-147c-40e9-8a64-1457181bf6d7" name="Default Changelist" comment="" />
+      <created>1558463821812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558463821812</updated>
+      <workItem from="1558463823985" duration="8847000" />
+      <workItem from="1558897303293" duration="3327000" />
+      <workItem from="1558902017320" duration="68138000" />
+      <workItem from="1560598592195" duration="4571000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84883000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.13422818" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" sideWeight="0.49375868" weight="0.17280453" />
+      <window_info anchor="bottom" id="REST Client" order="2" sideWeight="0.8224688" weight="0.34419262" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.4785021" weight="0.3338109" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5700416" side_tool="true" weight="0.31805158" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="NuGet" order="6" sideWeight="0.48821083" weight="0.32152975" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.48821083" weight="0.32719547" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" sideWeight="0.4923717" weight="0.32294616" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.4299584" visible="true" weight="0.2549575" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info anchor="bottom" id="Debug" order="12" sideWeight="0.47988904" weight="0.29745042" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" sideWeight="0.4986577" weight="0.32577905" />
+      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.4368932" weight="0.19770774" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Capture Tool" order="1" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.29680997" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" sideWeight="0.49375868" weight="0.32808024" />
+      <window_info anchor="bottom" id="REST Client" order="2" sideWeight="0.8224688" weight="0.3452722" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.4785021" weight="0.33524355" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5700416" side_tool="true" visible="true" weight="0.31805158" />
+      <window_info anchor="bottom" id="Database Changes" order="5" />
+      <window_info anchor="bottom" id="NuGet" order="6" sideWeight="0.48821083" weight="0.32378224" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.48821083" weight="0.32808024" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" sideWeight="0.4923717" weight="0.32378224" />
+      <window_info active="true" anchor="bottom" id="Run" order="9" sideWeight="0.4299584" visible="true" weight="0.31805158" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info anchor="bottom" id="Debug" order="12" sideWeight="0.47988904" weight="0.39971346" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" sideWeight="0.4986577" weight="0.32577905" />
+      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.4368932" weight="0.20057307" />
+      <window_info anchor="right" id="Errors In Solution" order="0" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="LaunchSettings">
+        <watch expression="this.users.Items[0].Adverts.Items[1].User" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Migrations/20190609073530_init.cs" />
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Migrations/CarDealerContextModelSnapshot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Repository/ICarRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+          <folding>
+            <marker date="1560363179243" expanded="true" signature="95:198" ph="{...}" />
+            <marker date="1560363179243" expanded="true" signature="184:196" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Service/IFlatService.cs" />
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Image/Repository/IImageRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <marker date="1560363154252" expanded="true" signature="97:182" ph="{...}" />
+            <marker date="1560363154252" expanded="true" signature="164:180" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Repository/IUserRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1560363167419" expanded="true" signature="96:202" ph="{...}" />
+            <marker date="1560363167419" expanded="true" signature="188:200" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Image/Repository/ImageRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="21" column="84" selection-start-line="21" selection-start-column="84" selection-end-line="21" selection-end-column="84" />
+          <folding>
+            <marker date="1560363149555" expanded="true" signature="6:173" ph="..." />
+            <marker date="1560363149555" expanded="true" signature="234:2596" ph="{...}" />
+            <marker date="1560363149555" expanded="true" signature="288:2594" ph="{...}" />
+            <marker date="1560363149555" expanded="true" signature="423:493" ph="{...}" />
+            <marker date="1560363149555" expanded="true" signature="563:784" ph="{...}" />
+            <marker date="1560363149555" expanded="true" signature="841:1110" ph="{...}" />
+            <marker date="1560363149555" expanded="true" signature="1160:1455" ph="{...}" />
+            <marker date="1560363149555" expanded="true" signature="1509:2224" ph="{...}" />
+            <marker date="1560363149555" expanded="true" signature="1725:2214" ph="{...}" />
+            <marker date="1560363149555" expanded="true" signature="1934:2140" ph="{...}" />
+            <marker date="1560363149555" expanded="true" signature="2267:2584" ph="{...}" />
+            <marker date="1560363149555" expanded="true" signature="2423:2574" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Api/Controllers/adsd.cs" />
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Image/Model/Image.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1560363163769" expanded="true" signature="92:268" ph="{...}" />
+            <marker date="1560363163769" expanded="true" signature="134:266" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/DTO/AdvertMapper.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E66A1F96-E973-4A7F-AC7C-EA0901022728/25/1a5a64ff/EntityEntry.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="220" column="44" selection-start-line="220" selection-start-column="34" selection-end-line="220" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api_2.http" />
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/90E93788-E934-48B7-A7CB-CECAB05F4851/8e/91f29cf4/DateTime.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Migrations/20190609073530_init.Designer.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/90E93788-E934-48B7-A7CB-CECAB05F4851/62/d945fc6f/ExceptionDispatchInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="91" column="6" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Migrations/20190609165112_init.cs" />
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Repository/CarRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="62" column="36" selection-start-line="62" selection-end-line="63" />
+          <folding>
+            <marker date="1560363175137" expanded="false" signature="6:173" ph="..." />
+            <marker date="1560363175137" expanded="true" signature="232:2734" ph="{...}" />
+            <marker date="1560363175137" expanded="true" signature="281:2732" ph="{...}" />
+            <marker date="1560363175137" expanded="true" signature="414:484" ph="{...}" />
+            <marker date="1560363175137" expanded="true" signature="579:792" ph="{...}" />
+            <marker date="1560363175137" expanded="true" signature="874:1135" ph="{...}" />
+            <marker date="1560363175137" expanded="true" signature="1208:1495" ph="{...}" />
+            <marker date="1560363175137" expanded="true" signature="1574:2376" ph="{...}" />
+            <marker date="1560363175137" expanded="true" signature="1784:2366" ph="{...}" />
+            <marker date="1560363175137" expanded="true" signature="2419:2726" ph="{...}" />
+            <marker date="1560363175137" expanded="true" signature="2568:2716" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Model/Car.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <marker date="1558993311045" expanded="true" signature="90:497" ph="{...}" />
+            <marker date="1558993311045" expanded="true" signature="129:495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/DTO/CarDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1560363088981" expanded="true" signature="50:391" ph="{...}" />
+            <marker date="1560363088981" expanded="true" signature="76:389" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Service/ICarService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1560363486059" expanded="true" signature="6:84" ph="..." />
+            <marker date="1560363486059" expanded="true" signature="140:207" ph="{...}" />
+            <marker date="1560363486059" expanded="true" signature="193:205" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Mapper/CarMapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <marker date="1560363070986" expanded="true" signature="102:1129" ph="{...}" />
+            <marker date="1560363070986" expanded="true" signature="140:1127" ph="{...}" />
+            <marker date="1560363070986" expanded="true" signature="229:588" ph="{...}" />
+            <marker date="1560363070986" expanded="true" signature="284:577" ph="{...}" />
+            <marker date="1560363070986" expanded="true" signature="672:1121" ph="{...}" />
+            <marker date="1560363070986" expanded="true" signature="757:1110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/DTO/UserDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <marker date="1560366195277" expanded="true" signature="86:413" ph="{...}" />
+            <marker date="1560366195277" expanded="true" signature="113:411" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Mapper/UserMapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
+          <folding>
+            <marker date="1560366945785" expanded="true" signature="104:926" ph="{...}" />
+            <marker date="1560366945785" expanded="true" signature="134:924" ph="{...}" />
+            <marker date="1560366945785" expanded="true" signature="200:527" ph="{...}" />
+            <marker date="1560366945785" expanded="true" signature="256:516" ph="{...}" />
+            <marker date="1560366945785" expanded="true" signature="588:918" ph="{...}" />
+            <marker date="1560366945785" expanded="true" signature="647:907" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Service/IUserService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
+          <folding>
+            <marker date="1560366200655" expanded="false" signature="6:85" ph="..." />
+            <marker date="1560366200655" expanded="true" signature="142:220" ph="{...}" />
+            <marker date="1560366200655" expanded="true" signature="197:218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Service/UserService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <folding>
+            <marker date="1560366948123" expanded="false" signature="6:239" ph="..." />
+            <marker date="1560366948123" expanded="true" signature="296:1340" ph="{...}" />
+            <marker date="1560366948123" expanded="true" signature="342:1338" ph="{...}" />
+            <marker date="1560366948123" expanded="true" signature="468:541" ph="{...}" />
+            <marker date="1560366948123" expanded="true" signature="607:751" ph="{...}" />
+            <marker date="1560366948123" expanded="true" signature="804:934" ph="{...}" />
+            <marker date="1560366948123" expanded="true" signature="982:1076" ph="{...}" />
+            <marker date="1560366948123" expanded="true" signature="1126:1222" ph="{...}" />
+            <marker date="1560366948123" expanded="true" signature="1265:1332" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Repository/IAdvertRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding>
+            <marker date="1558993310947" expanded="true" signature="98:183" ph="{...}" />
+            <marker date="1558993310947" expanded="true" signature="167:181" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Service/IAdvertService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <folding>
+            <marker date="1560363127768" expanded="false" signature="6:87" ph="..." />
+            <marker date="1560363127768" expanded="true" signature="146:220" ph="{...}" />
+            <marker date="1560363127768" expanded="true" signature="206:218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Repository/UserRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1560369742074" expanded="false" signature="6:173" ph="..." />
+            <marker date="1560369742074" expanded="true" signature="233:3322" ph="{...}" />
+            <marker date="1560369742074" expanded="true" signature="284:3320" ph="{...}" />
+            <marker date="1560369742074" expanded="true" signature="413:483" ph="{...}" />
+            <marker date="1560369742074" expanded="true" signature="580:799" ph="{...}" />
+            <marker date="1560369742074" expanded="true" signature="883:1150" ph="{...}" />
+            <marker date="1560369742074" expanded="true" signature="1226:1518" ph="{...}" />
+            <marker date="1560369742074" expanded="true" signature="1599:2953" ph="{...}" />
+            <marker date="1560369742074" expanded="true" signature="1813:2943" ph="{...}" />
+            <marker date="1560369742074" expanded="true" signature="2299:2869" ph="{...}" />
+            <marker date="1560369742074" expanded="true" signature="2450:2851" ph="{...}" />
+            <marker date="1560369742074" expanded="true" signature="2541:2829" ph="{...}" />
+            <marker date="1560369742074" expanded="true" signature="2629:2803" ph="{...}" />
+            <marker date="1560369742074" expanded="true" signature="2996:3310" ph="{...}" />
+            <marker date="1560369742074" expanded="true" signature="3150:3300" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Car/Service/CarService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <marker date="1560363784514" expanded="false" signature="6:236" ph="..." />
+            <marker date="1560363784514" expanded="true" signature="292:1303" ph="{...}" />
+            <marker date="1560363784514" expanded="true" signature="335:1301" ph="{...}" />
+            <marker date="1560363784514" expanded="true" signature="456:527" ph="{...}" />
+            <marker date="1560363784514" expanded="true" signature="592:731" ph="{...}" />
+            <marker date="1560363784514" expanded="true" signature="783:908" ph="{...}" />
+            <marker date="1560363784514" expanded="true" signature="954:1044" ph="{...}" />
+            <marker date="1560363784514" expanded="true" signature="1093:1186" ph="{...}" />
+            <marker date="1560363784514" expanded="true" signature="1229:1295" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <marker date="1560454144932" expanded="false" signature="6:255" ph="..." />
+            <marker date="1560454144932" expanded="true" signature="276:653" ph="{...}" />
+            <marker date="1560454144932" expanded="true" signature="303:651" ph="{...}" />
+            <marker date="1560454144932" expanded="true" signature="356:430" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer/Controllers/UserController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+          <folding>
+            <marker date="1560503876267" expanded="false" signature="6:217" ph="..." />
+            <marker date="1560503876267" expanded="true" signature="250:2392" ph="{...}" />
+            <marker date="1560503876267" expanded="true" signature="353:2390" ph="{...}" />
+            <marker date="1560503876267" expanded="true" signature="578:706" ph="{...}" />
+            <marker date="1560503876267" expanded="true" signature="811:1154" ph="{...}" />
+            <marker date="1560503876267" expanded="true" signature="845:982" ph="{...}" />
+            <marker date="1560503876267" expanded="true" signature="1031:1140" ph="{...}" />
+            <marker date="1560503876267" expanded="true" signature="1252:1372" ph="{...}" />
+            <marker date="1560503876267" expanded="true" signature="1482:1748" ph="{...}" />
+            <marker date="1560503876267" expanded="true" signature="1533:1610" ph="{...}" />
+            <marker date="1560503876267" expanded="true" signature="1869:2138" ph="{...}" />
+            <marker date="1560503876267" expanded="true" signature="1920:1997" ph="{...}" />
+            <marker date="1560503876267" expanded="true" signature="2249:2384" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Context/CarDealerContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <marker date="1560510522113" expanded="false" signature="6:242" ph="..." />
+            <marker date="1560510522113" expanded="true" signature="286:1386" ph="{...}" />
+            <marker date="1560510522113" expanded="true" signature="332:1384" ph="{...}" />
+            <marker date="1560510522113" expanded="true" signature="629:649" ph="{...}" />
+            <marker date="1560510522113" expanded="true" signature="736:828" ph="{...}" />
+            <marker date="1560510522113" expanded="true" signature="904:1378" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Model/Advert.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1560443601130" expanded="false" signature="6:219" ph="..." />
+            <marker date="1560443601130" expanded="true" signature="276:823" ph="{...}" />
+            <marker date="1560443601130" expanded="true" signature="318:821" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/User/Model/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <marker date="1560510638317" expanded="false" signature="6:167" ph="..." />
+            <marker date="1560510638317" expanded="true" signature="222:785" ph="{...}" />
+            <marker date="1560510638317" expanded="true" signature="262:783" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Repository/AdvertRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <marker date="1560370035110" expanded="false" signature="6:220" ph="..." />
+            <marker date="1560370035110" expanded="true" signature="282:3802" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="338:3800" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="473:543" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="614:836" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="894:1302" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="1058:1176" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="1208:1265" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="1354:1689" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="1744:3423" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="1960:3413" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="2487:2683" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="2760:3322" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="2909:3304" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="2998:3282" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="3084:3256" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="3466:3794" ph="{...}" />
+            <marker date="1560370035110" expanded="true" signature="3630:3784" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer/Controllers/AdvertController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <marker date="1560368390611" expanded="false" signature="6:221" ph="..." />
+            <marker date="1560368390611" expanded="true" signature="254:2252" ph="{...}" />
+            <marker date="1560368390611" expanded="true" signature="359:2250" ph="{...}" />
+            <marker date="1560368390611" expanded="true" signature="582:698" ph="{...}" />
+            <marker date="1560368390611" expanded="true" signature="799:1106" ph="{...}" />
+            <marker date="1560368390611" expanded="true" signature="825:952" ph="{...}" />
+            <marker date="1560368390611" expanded="true" signature="997:1096" ph="{...}" />
+            <marker date="1560368390611" expanded="true" signature="1200:1310" ph="{...}" />
+            <marker date="1560368390611" expanded="true" signature="1416:1648" ph="{...}" />
+            <marker date="1560368390611" expanded="true" signature="1461:1526" ph="{...}" />
+            <marker date="1560368390611" expanded="true" signature="1769:2014" ph="{...}" />
+            <marker date="1560368390611" expanded="true" signature="1814:1879" ph="{...}" />
+            <marker date="1560368390611" expanded="true" signature="2121:2244" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api_1.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="48" column="108" selection-start-line="48" selection-start-column="108" selection-end-line="48" selection-end-column="108" />
+          <folding>
+            <marker date="1560614991675" expanded="false" signature="6:808" ph="..." />
+            <marker date="1560614991675" expanded="true" signature="867:3124" ph="{...}" />
+            <marker date="1560614991675" expanded="true" signature="894:3122" ph="{...}" />
+            <marker date="1560614991675" expanded="true" signature="953:1016" ph="{...}" />
+            <marker date="1560614991675" expanded="true" signature="1239:2152" ph="{...}" />
+            <marker date="1560614991675" expanded="true" signature="2340:3116" ph="{...}" />
+            <marker date="1560614991675" expanded="true" signature="2387:2464" ph="{...}" />
+            <marker date="1560614991675" expanded="true" signature="2481:2686" ph="{...}" />
+            <marker date="1560614991675" expanded="true" signature="2512:2672" ph="/* The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/as ... */" />
+            <marker date="1560614991675" expanded="true" signature="2945:3104" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Core/AbstractEntity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+          <folding>
+            <marker date="1560096626477" expanded="true" signature="6:110" ph="..." />
+            <marker date="1560096626477" expanded="true" signature="151:419" ph="{...}" />
+            <marker date="1560096626477" expanded="true" signature="194:417" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Core/IRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <marker date="1558993310924" expanded="false" signature="6:63" ph="..." />
+            <marker date="1558993310924" expanded="true" signature="104:346" ph="{...}" />
+            <marker date="1558993310924" expanded="true" signature="148:344" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Core/IService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <marker date="1560363625562" expanded="false" signature="6:63" ph="..." />
+            <marker date="1560363625562" expanded="true" signature="104:345" ph="{...}" />
+            <marker date="1560363625562" expanded="true" signature="145:343" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/DTO/AdvertDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <marker date="1560363116308" expanded="true" signature="90:693" ph="{...}" />
+            <marker date="1560363116308" expanded="true" signature="119:691" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Mapper/AdvertMapper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <folding>
+            <marker date="1560363099899" expanded="true" signature="108:1900" ph="{...}" />
+            <marker date="1560363099899" expanded="true" signature="150:1898" ph="{...}" />
+            <marker date="1560363099899" expanded="true" signature="254:908" ph="{...}" />
+            <marker date="1560363099899" expanded="true" signature="312:897" ph="{...}" />
+            <marker date="1560363099899" expanded="true" signature="1007:1892" ph="{...}" />
+            <marker date="1560363099899" expanded="true" signature="1098:1881" ph="{...}" />
+            <marker date="1560363099899" expanded="true" signature="1459:1866" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer/Controllers/CarController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1560365605345" expanded="true" signature="6:215" ph="..." />
+            <marker date="1560365605345" expanded="true" signature="248:2337" ph="{...}" />
+            <marker date="1560365605345" expanded="true" signature="350:2335" ph="{...}" />
+            <marker date="1560365605345" expanded="true" signature="570:696" ph="{...}" />
+            <marker date="1560365605345" expanded="true" signature="799:1138" ph="{...}" />
+            <marker date="1560365605345" expanded="true" signature="833:967" ph="{...}" />
+            <marker date="1560365605345" expanded="true" signature="1016:1124" ph="{...}" />
+            <marker date="1560365605345" expanded="true" signature="1234:1351" ph="{...}" />
+            <marker date="1560365605345" expanded="true" signature="1459:1708" ph="{...}" />
+            <marker date="1560365605345" expanded="true" signature="1509:1586" ph="{...}" />
+            <marker date="1560365605345" expanded="true" signature="1825:2087" ph="{...}" />
+            <marker date="1560365605345" expanded="true" signature="1875:1952" ph="{...}" />
+            <marker date="1560365605345" expanded="true" signature="2196:2329" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CarDealer.Infrastructure/Bundles/Advert/Service/AdvertService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+          <folding>
+            <marker date="1560363145530" expanded="false" signature="6:259" ph="..." />
+            <marker date="1560363145530" expanded="true" signature="318:1421" ph="{...}" />
+            <marker date="1560363145530" expanded="true" signature="368:1419" ph="{...}" />
+            <marker date="1560363145530" expanded="true" signature="504:576" ph="{...}" />
+            <marker date="1560363145530" expanded="true" signature="644:798" ph="{...}" />
+            <marker date="1560363145530" expanded="true" signature="853:992" ph="{...}" />
+            <marker date="1560363145530" expanded="true" signature="1044:1146" ph="{...}" />
+            <marker date="1560363145530" expanded="true" signature="1198:1301" ph="{...}" />
+            <marker date="1560363145530" expanded="true" signature="1344:1413" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

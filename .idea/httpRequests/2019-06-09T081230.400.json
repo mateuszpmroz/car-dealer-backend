@@ -1,0 +1,13 @@
+{
+  "errors": {
+    "Car": [
+      "The Car field is required."
+    ],
+    "User": [
+      "The User field is required."
+    ]
+  },
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "0HLND0O2E1BCR:00000001"
+}

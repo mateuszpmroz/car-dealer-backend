@@ -1,0 +1,1328 @@
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "Title": "dawdwijawidjawidaw",
+  "Description": "dlkjanwd awdnl awlndnaw dlnk wankldkn alnk",
+  "Price": 20000,
+  "Status": true,
+  "EngineSize": 1999,
+  "Name": "Opel",
+  "FuelType": "Diesle",
+  "Mileage": 10000,
+  "IsBroken": false,
+  "IsNew": false,
+  "HorsePower": 100,
+  "UserId": 9
+}
+
+<> 2019-06-15T061618.201.json
+
+###
+
+POST http://localhost:5000/api/user
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "Login": "login",
+  "Password": "password",
+  "Email": "email@o2.pl",
+  "PhoneNumber": "1232131",
+  "FirstName": "Mati",
+  "Adverts": []
+}
+
+<> 2019-06-13T092848.201.json
+
+###
+
+POST http://localhost:5000/api/user
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "Login": "login",
+  "Password": "password",
+  "Email": "email@o2.pl",
+  "PhoneNumber": "1232131",
+  "FirstName": "Mati",
+  "Adverts": []
+}
+
+<> 2019-06-13T064112.201.json
+
+###
+
+POST http://localhost:5000/api/user
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "Login": "login",
+  "Password": "password",
+  "Email": "email@o2.pl",
+  "PhoneNumber": "1232131",
+  "FirstName": "Mati",
+  "Adverts": []
+}
+
+<> 2019-06-12T095158.201.json
+
+###
+
+POST http://localhost:5000/api/user
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+  "Login": "login",
+  "Password": "password",
+  "Email": "email@o2.pl",
+  "PhoneNumber": "1232131",
+  "FirstName": "Mati",
+  "Adverts": {},
+}
+
+<> 2019-06-12T095123.400.json
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "dziwka",
+   "Description": "pizda",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "UserId": 1,
+  "Id": 6
+ 
+ 
+}
+
+<> 2019-06-12T074325.200.txt
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "asdads",
+   "Description": "dsadad",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "UserId": 1,
+  "Id": 6
+ 
+ 
+}
+
+<> 2019-06-12T074305.200.txt
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "asdads",
+   "Description": "dsadad",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "UserId": 1,
+  "Id": 7
+ 
+ 
+}
+
+<> 2019-06-12T074112.200.txt
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "asdads",
+   "Description": "dsadad",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "UserId": 1,
+  "Id": 9
+ 
+ 
+}
+
+<> 2019-06-09T103508.200.txt
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert/
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "asdads",
+   "Description": "dsadad",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "UserId": 1,
+  "Id": 8
+ 
+ 
+}
+
+<> 2019-06-09T103306.200.txt
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "Chuj",
+   "Description": "Dupa",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "UserId": 1
+ 
+ 
+}
+
+<> 2019-06-09T103225.201.json
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "Chuj",
+   "Description": "Dupa",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "UserId": 1
+ 
+ 
+}
+
+<> 2019-06-09T103223.201.json
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "Chuj",
+   "Description": "Dupa",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "UserId": 1
+ 
+ 
+}
+
+<> 2019-06-09T103220-1.201.json
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "Chuj",
+   "Description": "Dupa",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "UserId": 1
+ 
+ 
+}
+
+<> 2019-06-09T103220.201.json
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "Chuj",
+   "Description": "Dupa",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "UserId": 1
+ 
+ 
+}
+
+<> 2019-06-09T103216.201.json
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "Chuj",
+   "Description": "Dupa",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "Id": 1
+ 
+ 
+}
+
+<> 2019-06-09T103202.500.html
+
+###
+
+POST http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "Chuj",
+   "Description": "Dupa",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "Id": 1
+ 
+ 
+}
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "Chuj",
+   "Description": "Dupa",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "Id": 1
+ 
+ 
+}
+
+<> 2019-06-09T103139.200.txt
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "Chuj",
+   "Description": "Dupa",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "Id": 4
+ 
+ 
+}
+
+<> 2019-06-09T103117.200.txt
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "Chuj",
+   "Description": "Dupa",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+"UserId": 1,
+  "Id": 3
+ 
+ 
+}
+
+<> 2019-06-09T103020.200.txt
+
+###
+
+POST http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "Chuj",
+   "Description": "Dupa",
+   "Price": 69,
+   "Status": 1,
+
+    "Name": "Chuj",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+"UserId": 1,
+  "Id": 3
+ 
+ 
+}
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "sadasda title",
+   "Description": "Dupa",
+   "Price": 123123,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+"UserId": 1
+ 
+ 
+}
+
+<> 2019-06-09T102807.201.json
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "ass",
+   "Description": "adsd",
+   "Price": 123123,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+
+ 
+ 
+}
+
+<> 2019-06-09T102504.201.json
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "ass",
+   "Description": "adsd",
+   "Price": 123123,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+
+ 
+ 
+}
+
+<> 2019-06-09T102136.500.html
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "ass",
+   "Description": "adsd",
+   "Price": 123123,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+
+ 
+ 
+}
+
+<> 2019-06-09T102131.500.html
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "ass",
+   "Description": "adsd",
+   "Price": 123123,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+
+ 
+ 
+}
+
+<> 2019-06-09T100254.500.html
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "ass",
+   "Description": "adsd",
+   "Price": 123123,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+
+ 
+ 
+}
+
+<> 2019-06-09T091600.500.html
+
+###
+
+POST http://localhost:5000/api/advert/CreateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "ass",
+   "Description": "adsd",
+   "Price": 123123,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+
+ 
+ 
+}
+
+###
+
+POST http://localhost:5000/api/advert/CreateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "ass",
+   "Description": "adsd",
+   "Price": 123123,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+
+ 
+ 
+}
+
+###
+
+DELETE http://localhost:5000/api/advert/DeleteAdvert/2
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "ass",
+   "Description": "adsd",
+   "Price": 123123,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "Id": 2
+ 
+ 
+}
+
+<> 2019-06-09T091241.200.txt
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "ass",
+   "Description": "adsd",
+   "Price": 123123,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "Id": 2
+ 
+ 
+}
+
+<> 2019-06-09T090147.200.txt
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "ass",
+   "Description": "adsd",
+   "Price": 123123,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "Id": 2
+ 
+ 
+}
+
+<> 2019-06-09T090113.200.txt
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "dsadsa",
+   "Description": "adsa",
+   "Price": 333,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "Id": 2
+ 
+ 
+}
+
+<> 2019-06-09T090046.200.txt
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "dsadsa",
+   "Description": "adsa",
+   "Price": 333,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "Id": 2
+ 
+ 
+}
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "dsadsa",
+   "Description": "adsa",
+   "Price": 333,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "Id": 2
+ 
+ 
+}
+
+<> 2019-06-09T085918.500.html
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "dsadsa",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "Id": 2
+ 
+ 
+}
+
+<> 2019-06-09T084353.500.html
+
+###
+
+GET http://localhost:5000/api/advert/GetAllAdverts
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "dsadsa",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "Id": 2
+ 
+ 
+}
+
+<> 2019-06-09T084253.200.json
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "dsadsa",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "id": 2
+ 
+ 
+}
+
+<> 2019-06-09T083848.500.html
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "dsadsa",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "id": 2
+ 
+ 
+}
+
+<> 2019-06-09T083514.500.html
+
+###
+
+PUT http://localhost:5000/api/advert/UpdateAdvert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "dsadsa",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Dupa",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000,
+  "Id": 2
+ 
+ 
+}
+
+<> 2019-06-09T083421.500.html
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "tytulll",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Gas",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+ 
+ 
+}
+
+<> 2019-06-09T082011.201.json
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "tytulll",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Gas",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+ 
+ 
+}
+
+<> 2019-06-09T081436.200.txt
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "tytulll",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Gas",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+ 
+ 
+}
+
+<> 2019-06-09T081230.400.json
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "tytulll",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Gas",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+ 
+ 
+}
+
+<> 2019-06-09T081200.500.html
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "tytulll",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Gas",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+ 
+ 
+}
+
+<> 2019-06-09T080706.500.html
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "tytulll",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+
+    "Name": "name",
+    "FuelType": "Gas",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+ 
+ 
+}
+
+<> 2019-06-09T080526.500.html
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "tytulll",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+  "Car": {
+    "Name": "name",
+    "FuelType": "Gas",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+  },
+  "User": {
+    "FirstName": "asdasda",
+
+    "Login": "asd",
+    "Password": "asda",
+    "Email": "wrawa",
+    "PhoneNumber": "1231231"
+  }
+ 
+}
+
+<> 2019-06-09T074539.200.txt
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "tytulll",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+  "Car": {
+    "Name": "name",
+    "FuelType": "Gas",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+  },
+  "User": {
+    "FirstName": "asdasda",
+
+    "Login": "asd",
+    "Password": "asda",
+    "Email": "wrawa",
+    "PhoneNumber": "1231231"
+  }
+ 
+}
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "tytulll",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+  "Car": {
+    "Name": "name",
+    "FuelType": "Gas",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+  },
+  "User": {
+    "FirstName": "asdasda",
+  "Id": 1,
+    "Login": "asd",
+    "Password": "asda",
+    "Email": "wrawa",
+    "PhoneNumber": "1231231"
+  }
+ 
+}
+
+<> 2019-06-09T074504.500.html
+
+###
+
+POST http://localhost:5000/api/advert
+Accept: */*
+Cache-Control: no-cache
+Content-Type: application/json
+
+{
+   "Title": "tytulll",
+   "Description": "adsa",
+   "Price": 222,
+   "Status": 1,
+  "Car": {
+    "Name": "name",
+    "FuelType": "Gas",
+    "Mileage": 200,
+    "IsBroken": 0,
+    "IsNew": 1,
+    "HorsePower": 2000,
+    "EngineSize": 2000
+  },
+  "User": {
+    "FirstName": "asdasda",
+  "Id": 1,
+    "Login": "asd",
+    "Password": "asda",
+    "Email": "wrawa",
+    "PhoneNumber": "1231231"
+  }
+ 
+}
+
+<> 2019-06-09T074459.500.html
+
+###
+

@@ -1,0 +1,15 @@
+{
+  "title": "Chuj",
+  "description": "Dupa",
+  "price": 69,
+  "status": true,
+  "name": "Chuj",
+  "fuelType": "Dupa",
+  "mileage": 200,
+  "isBroken": false,
+  "isNew": true,
+  "horsePower": 2000,
+  "engineSize": 2000,
+  "id": null,
+  "userId": 1
+}

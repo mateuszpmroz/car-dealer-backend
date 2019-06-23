@@ -1,0 +1,10 @@
+{
+  "errors": {
+    "Adverts": [
+      "Cannot deserialize the current JSON object (e.g. {\"name\":\"value\"}) into type 'System.Collections.Generic.List`1[CarDealer.Infrastructure.Bundles.Advert.Model.Advert]' because the type requires a JSON array (e.g. [1,2,3]) to deserialize correctly.\r\nTo fix this error either change the JSON to a JSON array (e.g. [1,2,3]) or change the deserialized type so that it is a normal .NET type (e.g. not a primitive type like integer, not a collection type like an array or List<T>) that can be deserialized from a JSON object. JsonObjectAttribute can also be added to the type to force it to deserialize from a JSON object.\r\nPath 'Adverts', line 7, position 15."
+    ]
+  },
+  "title": "One or more validation errors occurred.",
+  "status": 400,
+  "traceId": "0HLNFDN6UM6R0:00000001"
+}

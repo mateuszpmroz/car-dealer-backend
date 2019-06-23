@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mateu\.Rider2018.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\mateu\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mateu\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_CarDealer.-1755362517.00" t="ExcludeRecursive" />
+    <e p="D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer" t="IncludeFlat">
+      <e p="CarDealer" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CarDealer.csproj" t="IncludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="AdvertController.cs" t="Include" />
+          <e p="CarController.cs" t="Include" />
+          <e p="UserController.cs" t="Include" />
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="dbo.CarDealerApi.db" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="CarDealer.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="CarDealer.Infrastructure" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bundles" t="Include">
+          <e p="Advert" t="Include">
+            <e p="DTO" t="Include">
+              <e p="AdvertDto.cs" t="Include" />
+            </e>
+            <e p="Mapper" t="Include">
+              <e p="AdvertMapper.cs" t="Include" />
+            </e>
+            <e p="Model" t="Include">
+              <e p="Advert.cs" t="Include" />
+            </e>
+            <e p="Repository" t="Include">
+              <e p="AdvertRepository.cs" t="Include" />
+              <e p="IAdvertRepository.cs" t="Include" />
+            </e>
+            <e p="Service" t="Include">
+              <e p="AdvertService.cs" t="Include" />
+              <e p="IAdvertService.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Car" t="Include">
+            <e p="DTO" t="Include">
+              <e p="CarDto.cs" t="Include" />
+            </e>
+            <e p="Mapper" t="Include">
+              <e p="CarMapper.cs" t="Include" />
+            </e>
+            <e p="Model" t="Include">
+              <e p="Car.cs" t="Include" />
+            </e>
+            <e p="Repository" t="Include">
+              <e p="CarRepository.cs" t="Include" />
+              <e p="ICarRepository.cs" t="Include" />
+            </e>
+            <e p="Service" t="Include">
+              <e p="CarService.cs" t="Include" />
+              <e p="ICarService.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Image" t="Include">
+            <e p="Model" t="Include">
+              <e p="Image.cs" t="Include" />
+            </e>
+            <e p="Repository" t="Include">
+              <e p="IImageRepository.cs" t="Include" />
+              <e p="ImageRepository.cs" t="Include" />
+            </e>
+            <e p="Service" t="Include" />
+          </e>
+          <e p="User" t="Include">
+            <e p="DTO" t="Include">
+              <e p="UserDto.cs" t="Include" />
+            </e>
+            <e p="Mapper" t="Include">
+              <e p="UserMapper.cs" t="Include" />
+            </e>
+            <e p="Model" t="Include">
+              <e p="User.cs" t="Include" />
+            </e>
+            <e p="Repository" t="Include">
+              <e p="IUserRepository.cs" t="Include" />
+              <e p="UserRepository.cs" t="Include" />
+            </e>
+            <e p="Service" t="Include">
+              <e p="IUserService.cs" t="Include" />
+              <e p="UserService.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="CarDealer.Infrastructure.csproj" t="IncludeRecursive" />
+        <e p="Context" t="Include">
+          <e p="CarDealerContext.cs" t="Include" />
+        </e>
+        <e p="Core" t="Include">
+          <e p="AbstractEntity.cs" t="Include" />
+          <e p="IRepository.cs" t="Include" />
+          <e p="IService.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20190609181417_init.cs" t="Include" />
+          <e p="20190609181417_init.Designer.cs" t="Include" />
+          <e p="CarDealerContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="CarDealer.Infrastructure.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="CarDealer.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

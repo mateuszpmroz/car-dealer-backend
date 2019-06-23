@@ -1,0 +1,66 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\Szkoła\\Semestr 6\\.NET\\Projekt\\CarDealer\\CarDealer\\CarDealer.csproj",
+    "projectName": "CarDealer",
+    "projectPath": "D:\\Szkoła\\Semestr 6\\.NET\\Projekt\\CarDealer\\CarDealer\\CarDealer.csproj",
+    "outputPath": "D:\\Szkoła\\Semestr 6\\.NET\\Projekt\\CarDealer\\CarDealer\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "D:\\Szkoła\\Semestr 6\\.NET\\Projekt\\CarDealer\\CarDealer.Infrastructure\\CarDealer.Infrastructure.csproj": {
+            "projectPath": "D:\\Szkoła\\Semestr 6\\.NET\\Projekt\\CarDealer\\CarDealer.Infrastructure\\CarDealer.Infrastructure.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.2.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[4.0.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,1 @@
+Added = CarDealer.Infrastructure.Bundles.Advert.Model.Advert

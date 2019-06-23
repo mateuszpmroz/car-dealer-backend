@@ -1,0 +1,17 @@
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\obj\Debug\netcoreapp2.2\CarDealer.csprojAssemblyReference.cache
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\obj\Debug\netcoreapp2.2\CarDealer.csproj.CoreCompileInputs.cache
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\obj\Debug\netcoreapp2.2\CarDealer.RazorAssemblyInfo.cache
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\obj\Debug\netcoreapp2.2\CarDealer.RazorAssemblyInfo.cs
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\obj\Debug\netcoreapp2.2\CarDealer.AssemblyInfoInputs.cache
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\obj\Debug\netcoreapp2.2\CarDealer.AssemblyInfo.cs
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\bin\Debug\netcoreapp2.2\CarDealer.deps.json
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\bin\Debug\netcoreapp2.2\CarDealer.runtimeconfig.json
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\bin\Debug\netcoreapp2.2\CarDealer.runtimeconfig.dev.json
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\bin\Debug\netcoreapp2.2\CarDealer.dll
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\bin\Debug\netcoreapp2.2\CarDealer.pdb
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\bin\Debug\netcoreapp2.2\CarDealer.Infrastructure.dll
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\bin\Debug\netcoreapp2.2\CarDealer.Infrastructure.pdb
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\obj\Debug\netcoreapp2.2\CarDealer.RazorTargetAssemblyInfo.cache
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\obj\Debug\netcoreapp2.2\CarDealer.csproj.CopyComplete
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\obj\Debug\netcoreapp2.2\CarDealer.dll
+D:\Szkoła\Semestr 6\.NET\Projekt\CarDealer\CarDealer\obj\Debug\netcoreapp2.2\CarDealer.pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealer.Infrastructure", "CarDealer.Infrastructure\CarDealer.Infrastructure.csproj", "{6CDBE287-026D-4E64-A9F0-AC3019ABD153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarDealer", "CarDealer\CarDealer.csproj", "{960FB7EA-4EDE-4672-91D2-BF4B811B5A4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CDBE287-026D-4E64-A9F0-AC3019ABD153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDBE287-026D-4E64-A9F0-AC3019ABD153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDBE287-026D-4E64-A9F0-AC3019ABD153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDBE287-026D-4E64-A9F0-AC3019ABD153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960FB7EA-4EDE-4672-91D2-BF4B811B5A4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960FB7EA-4EDE-4672-91D2-BF4B811B5A4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960FB7EA-4EDE-4672-91D2-BF4B811B5A4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960FB7EA-4EDE-4672-91D2-BF4B811B5A4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+{
+  "title": "dawdwijawidjawidaw",
+  "description": "dlkjanwd awdnl awlndnaw dlnk wankldkn alnk",
+  "price": 20000,
+  "status": true,
+  "name": "Opel",
+  "fuelType": "Diesle",
+  "mileage": 10000,
+  "isBroken": false,
+  "isNew": false,
+  "horsePower": 100,
+  "engineSize": 1999,
+  "id": null,
+  "userId": 9
+}
